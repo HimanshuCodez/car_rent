@@ -3,15 +3,15 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 // Component import
-import Navbar from "./components/Navbar/Navbar";
-import Hero from "./components/Hero/Hero";
-import About from "./components/About/About";
-import Services from "./components/Services/Services";
-import CarList from "./components/CarList/CarList";
-import AppStoreBanner from "./components/AppStoreBanner/AppStoreBanner";
-import Contact from "./components/Contact/Contact";
-import Testimonial from "./components/Testimonial/Testimonial";
-import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Services from "./components/Services";
+import CarList from "./components/CarList";
+import AppStoreBanner from "./components/AppStoreBanner";
+import Contact from "./components/Contact";
+import Testimonial from "./components/Testimonial";
+import Footer from "./components/Footer";
 
 const App = () => {
   // dark mode start
